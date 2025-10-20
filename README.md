@@ -165,9 +165,6 @@ You can explore the restaurant points using the "Identify Features" tool, or ope
 ### Finding data for other locations
 
 - Consult the Wikipedia page for a city, to determine what county it is in.  General and GIS-specific data portals may be found at various administrative levels: city, county, state, and nation.
-
 - Geolode, a catalog of open geodata websites: <https://geolode.org/>
-
 - Guide to Finding GIS data: <https://cornell-gis.github.io/finding-gis-data/>
-
 - For help via e-mail or a one-on-one consulation (Zoom or in-person), see <https://guides.library.cornell.edu/gis/help>
