@@ -145,10 +145,11 @@ You can explore the restaurant points using the "Identify Features" tool, or ope
 
 ### Coming soon ... on Wednesday!
 
-* Analyzing point data by polygon
-* Looking at parcel data to identify commercial properties
-* Generating driving-distance (or walking-distance) isochrones
-* Finding data sources
+- Analyzing point data by polygon
+- Looking at parcel data to identify commercial properties
+- Generating driving-distance (or walking-distance) isochrones
+    - Sign up for a free OpenRouteService account at https://openrouteservice.org/ (click "Log In")
+- Finding data sources
 
 
 ## Data sources
