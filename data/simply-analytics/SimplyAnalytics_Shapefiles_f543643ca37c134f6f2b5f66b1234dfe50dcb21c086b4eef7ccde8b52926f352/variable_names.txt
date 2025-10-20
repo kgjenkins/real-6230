@@ -1,0 +1,2 @@
+VALUE0	# Total Population, 2025
+VALUE1	Median Household Income, 2025
